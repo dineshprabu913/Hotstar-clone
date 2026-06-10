@@ -17,6 +17,8 @@ This repository consist of the code for Hotstar Clone.
 
 Welcome to the Disney+ Hotstar Clone! Recreate the magic of streaming movies, TV shows, sports, and more.
 
+## Live Demo
+https://dineshprabu913.github.io/Hotstar-clone/
 ## Features
 - Stream movies, TV series, live sports, and exclusive content.
 - Powerful search with personalized recommendations.
